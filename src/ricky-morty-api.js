@@ -80,7 +80,7 @@ transition: all  0.3s cubic-bezier(.25,.8,.25, 1)
         method="GET"
       ></get-data>
       <div class='container'>
-        <h2>The <strong class='title'>Ricky and Morty</strong> API</h1>
+        <h2>The <strong class='title'>Ricky and Morty</strong> API</h2>
         ${this.dataTemplate}
       </div>
     `;
